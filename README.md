@@ -1,15 +1,15 @@
-Steps needed to run code:
+# Steps needed to run code:
 
-- Packages
+To create hardhat environment with .env / .secret addition
+
+  [Check out this hardhat env starter!!](https://github.com/smartcontractkit/hardhat-starter-kit)
+
+Install packages
 
 ```
 npm install @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/mocha ts-node typechain typescript
 ```
 
-- create hardhat environment with .env / .secret addition
-```
-[Check out this hardhat env starter!!](https://github.com/smartcontractkit/hardhat-starter-kit)
-```
 
 To compile contracts:
 
